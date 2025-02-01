@@ -38,7 +38,7 @@ http://localhost:5173/
 
 ## Video Demo
 Watch a demo of the application:
-(src\assets\quizAppVideo.mp4)
+![Video Demo](src/assets/quizAppVideo.mp4)
 ## Contributing
 Contributions are welcome! Follow these steps:
 1. Fork the repository
