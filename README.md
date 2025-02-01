@@ -36,17 +36,17 @@ http://localhost:5173/
 
 ## Screenshots
 ### Screenshot 1
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1]![Screenshot 2025-02-01 141445](https://github.com/user-attachments/assets/b16e235a-1503-4dff-bf60-3d6bd93b0055)
 
 ### Screenshot 2
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 2]![Screenshot 2025-02-01 141539](https://github.com/user-attachments/assets/2a75e686-91ed-4dff-8a21-09a53a1f9661)
 
 ### Screenshot 3
 ![Screenshot 3](path/to/screenshot3.png)
 
 ## Video Demo
 Watch a demo of the application:
-(src\assets\quizAppVideo.mp4)
+[video link](https://drive.google.com/file/d/1EOxxSPHRod8rjTshR04Q70x5ZteOsw9x/view?usp=sharing)
 ## Contributing
 Contributions are welcome! Follow these steps:
 1. Fork the repository
