@@ -1,22 +1,14 @@
-# Project Name
-
-## Introduction
-This is a Vite + React project. Follow the steps below to set up and run the application.
-
-## Prerequisites
-Make sure you have the following installed on your system:
-- [Node.js](https://nodejs.org/) (LTS version recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+# Quiz App
 
 ## Installation
 Follow these steps to install and set up the project:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone (https://github.com/kartikey7y/quiz_app/)
 
 # Navigate to the project directory
-cd your-repo
+cd quiz_app
 
 # Install dependencies
 npm install  # or yarn install
