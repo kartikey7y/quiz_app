@@ -37,3 +37,5 @@ http://localhost:5173/
 Watch a demo of the application:
 [video link](https://drive.google.com/file/d/1EOxxSPHRod8rjTshR04Q70x5ZteOsw9x/view?usp=sharing)
 
+###Quiz App Link
+[Quiz app link](https://quiz-app-rho-topaz.vercel.app/)
