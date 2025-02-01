@@ -1,0 +1,14 @@
+@import "tailwindcss";
+/* :root{
+  --choosen-lightGreeen: #E1F396;
+  --choosen-green:#015055 ;
+  --choosen-textColor:#222222 ;
+} */
+body {
+  font-family: "Open Sans", serif;
+  color: #222222;
+}
+
+.option{
+  transition: #E1F396 0.3s ease;
+}
