@@ -46,9 +46,7 @@ http://localhost:5173/
 
 ## Video Demo
 Watch a demo of the application:
-
-[Video Demo](https://drive.google.com/file/d/1EOxxSPHRod8rjTshR04Q70x5ZteOsw9x/view?usp=sharing)
-
+(src\assets\quizAppVideo.mp4)
 ## Contributing
 Contributions are welcome! Follow these steps:
 1. Fork the repository
