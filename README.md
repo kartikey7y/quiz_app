@@ -1,12 +1,4 @@
-# Project Name
-
-## Introduction
-This is a Vite + React project. Follow the steps below to set up and run the application.
-
-## Prerequisites
-Make sure you have the following installed on your system:
-- [Node.js](https://nodejs.org/) (LTS version recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+# Quiz app 
 
 ## Installation
 Follow these steps to install and set up the project:
@@ -41,20 +33,7 @@ http://localhost:5173/
 ### Screenshot 2
 ![Screenshot 2]![Screenshot 2025-02-01 141539](https://github.com/user-attachments/assets/2a75e686-91ed-4dff-8a21-09a53a1f9661)
 
-### Screenshot 3
-![Screenshot 3](path/to/screenshot3.png)
-
 ## Video Demo
 Watch a demo of the application:
 [video link](https://drive.google.com/file/d/1EOxxSPHRod8rjTshR04Q70x5ZteOsw9x/view?usp=sharing)
-## Contributing
-Contributions are welcome! Follow these steps:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes and commit (`git commit -m 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a Pull Request
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
